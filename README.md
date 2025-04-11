@@ -3,8 +3,8 @@
 💻 Passionate about Next.js full-stack development  
 🔒 Focused on exploring cybersecurity analytics, with a keen interest in protecting and analyzing digital infrastructures  
 🔭 When I'm not coding, I'm diving into the latest cybersecurity trends . 
-🌱 Continuously learning and embracing new challenges!
-⚡ Fun fact: I once spent 3 hours debugging a single line of code—and it turned out to be a missing semicolon. Lesson learned!
+🌱 Continuously learning and embracing new challenges!<br>
+⚡ Fun fact: I once spent 2 hours debugging a single line of code—and it turned out to be a missing semicolon. Lesson learned!
 
 
 <!--
