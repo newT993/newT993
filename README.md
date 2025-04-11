@@ -1,4 +1,11 @@
-## Hi there 👋
+👋 Hi, I'm Khun ThitSar Bway  
+🎓 4th-year Information Technology student at Technological University, Taunggyi  
+💻 Passionate about Next.js full-stack development  
+🔒 Focused on exploring cybersecurity analytics, with a keen interest in protecting and analyzing digital infrastructures  
+🔭 When I'm not coding, I'm diving into the latest cybersecurity trends . 
+🌱 Continuously learning and embracing new challenges!
+⚡ Fun fact: I once spent 3 hours debugging a single line of code—and it turned out to be a missing semicolon. Lesson learned!
+
 
 <!--
 **newT993/newT993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +19,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
