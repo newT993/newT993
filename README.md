@@ -1,10 +1,10 @@
 👋 Hi, I'm Khun ThitSar Bway  
-🎓 4th-year Information Technology student at Technological University, Taunggyi (25-26)  
+🎓 4th-year Information Technology student at Technological University, Taunggyi (2025-2026)  
 💻 Passionate about Next.js full-stack development  
 🔒 Focused on exploring cybersecurity analytics, with a keen interest in protecting and analyzing digital infrastructures  
 🔭 When I'm not coding, I'm diving into the latest cybersecurity trends . 
 🌱 Continuously learning and embracing new challenges!<br>
-⚡ Fun fact: I once spent 2 hours debugging a single line of code—and it turned out to be a missing semicolon. Lesson learned!
+⚡ Fun fact: I once spent 2 hours debugging a single line of code—and it turned out to be a missing semicolon. Lesson learned!💪🏽💪🏽
 
 
 <!--
