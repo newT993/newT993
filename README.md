@@ -3,7 +3,7 @@
 💻 Passionate about Next.js full-stack development  
 🔒 Focused on exploring cybersecurity analytics, with a keen interest in protecting and analyzing digital infrastructures.<br>
 🌱 Continuously learning and embracing new challenges!<br>
-⚡ Fun fact? I would say "everything does suck".
+⚡ Fun fact ?
 
 
 <!--
